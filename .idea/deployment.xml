@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="conex" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="conex">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/wp-content/plugins/conex-header" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
